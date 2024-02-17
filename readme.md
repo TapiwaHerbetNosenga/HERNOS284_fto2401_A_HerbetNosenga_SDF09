@@ -1,0 +1,1 @@
+The main issues that came with completing this task were finding the correct syntax. I later realized that tailwind is also limited in some aspects but overall it was a fun and quicker way to style elements. I look forward to using tailwind more in the future.
